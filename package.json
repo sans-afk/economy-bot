@@ -1,0 +1,41 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "",
+  "version": "0.0.1",
+  "description": "A simple Discord Bot With Many Awesome Features In store For Everyone!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "3": "^2.1.0",
+    "cooldown": "^0.2.0",
+    "discord.js": "^11.4.2",
+    "enmap": "^5.2.4",
+    "express": "^4.17.1",
+    "figlet": "^1.4.0",
+    "fs": "0.0.2",
+    "http": "0.0.1-security",
+    "i": "^0.3.6",
+    "install": "^0.13.0",
+    "ms": "^2.1.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.0.0-b21",
+    "sqlite": "^4.0.7",
+    "sqlite3": "^4.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/meowze-official"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
